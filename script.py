@@ -22,8 +22,7 @@ with open('images\output_image.jpg', "rb") as file:
     btn = st.download_button(
             label="Baixar tweet físico",
             data=file,
-            file_name="tweet_físico.png",
-            mime="image/png"
+            file_name="tweet_físico.png"
           )
 
 footer="""<style>
