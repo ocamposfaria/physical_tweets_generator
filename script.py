@@ -34,7 +34,7 @@ text-decoration: underline;
 }
 
 a:hover,  a:active {
-color: red;
+color: lightblue;
 background-color: transparent;
 text-decoration: underline;
 }
