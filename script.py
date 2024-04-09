@@ -10,7 +10,7 @@ st.markdown('## 📝 Gerador de tweet físico')
 st.markdown('')
 
 # streamlit input
-tweet = st.text_input('Escreva seu tweet 👇', max_chars=175)
+tweet = st.text_input("Escreva seu tweet e aperte 'enter' 👇", max_chars=175)
 
 st.markdown('')
 st.markdown('')
